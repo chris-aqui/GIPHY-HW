@@ -1,0 +1,28 @@
+{
+  "name": "giphy-hw",
+  "version": "1.0.0",
+  "description": "In this assignment, you'll use the GIPHY API to make a dynamic web page that populates with gifs of your choice. To finish this task, you must call the GIPHY API and use JavaScript and jQuery to change the HTML of your site.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christine-aqui/GIPHY-HW.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/christine-aqui/GIPHY-HW/issues"
+  },
+  "homepage": "https://github.com/christine-aqui/GIPHY-HW#readme",
+  "dependencies": {
+    "eslint": "^4.19.1",
+    "jslint": "^0.12.0",
+    "live-server": "^1.2.0"
+  },
+  "devDependencies": {
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.11.0"
+  }
+}
